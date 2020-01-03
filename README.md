@@ -2,10 +2,19 @@
 For this tutorial you DONT need macOS machine
 You can Update moc to Mojave or Catalina after install, dont create USB with it.
 
+What does not work:
+- VGA Port
+- Card Reader
+
 Preparation:
 - 8GB USB Flash Drive
 - Ethernet Connection (no WIFI)
 - Linux
+
+BIOS Settings:
+- Disable Security Chip
+- Disable Anti Theft Module
+- Disable TPM
 
 1. In terminal (linux) clone this macOS USB creator repo:
 ```git clone https://github.com/notthebee/macos_usb```
