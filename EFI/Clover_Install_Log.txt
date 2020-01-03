@@ -1,0 +1,39 @@
+
+Clover EFI installer log - Thu Oct  3 14:18:11 +08 2019
+Installer version: v2.5k r5093 EFI bootloader
+======================================================
+/dev/disk0 (internal, physical):
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      GUID_partition_scheme                        *84.8 GB    disk0
+   1:                        EFI EFI                     209.7 MB   disk0s1
+   2:                 Apple_APFS Container disk1         84.6 GB    disk0s2
+
+/dev/disk1 (synthesized):
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      APFS Container Scheme -                      +84.6 GB    disk1
+                                 Physical Store disk0s2
+   1:                APFS Volume Mojave 10.14.3 by Te... 17.9 GB    disk1s1
+   2:                APFS Volume Preboot                 44.8 MB    disk1s2
+   3:                APFS Volume Recovery                519.6 MB   disk1s3
+   4:                APFS Volume VM                      1.1 GB     disk1s4
+
+/dev/disk2 (external, physical):
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      GUID_partition_scheme                        *63.9 GB    disk2
+   1:                        EFI EFI                     209.7 MB   disk2s1
+   2:                  Apple_HFS Install macOS Mojave    63.5 GB    disk2s2
+
+======================================================
+Backing up EFI files
+
+======================================================
+Installing BootSectors/BootLoader
+
+Stage 0 - Don't write any of boot0af, boot0md, boot0ss to /Volumes/Install macOS Mojave
+Stage 1 - Don't write any of boot1h2, boot1f32alt, boot1xalt to /Volumes/Install macOS Mojave
+
+Theme 'Clovy' (defined in config.plist) not found !
+Using default theme 'embedded'
+======================================================
+=========== Clover EFI Installation Finish ===========
+======================================================
