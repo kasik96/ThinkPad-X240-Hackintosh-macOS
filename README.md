@@ -1,7 +1,7 @@
 # ThinkPad X240 Hackintosh - macOS Catalina
 For this tutorial you DONT need macOS machine, but you need Linux.
 
-Credits:
+***Credits:***
 - https://github.com/Sniki/ALCPlugFix
 - https://github.com/Sniki/Lenovo-Thinkpad-X240
 - https://github.com/Sniki/OS-X-USB-Inject-All
@@ -9,20 +9,21 @@ Credits:
 - https://www.reddit.com/r/hackintosh/comments/dfbswz/thinkpad_x240_catalina_success/
 
 
-What does not work:
+***What does not work:***
 - VGA Port
 - Card Reader
 
-Preparation:
+***Preparation:***
 - 8GB USB Flash Drive
 - Ethernet Connection (no WIFI)
 - Linux
 
-BIOS Settings:
+***BIOS Settings:***
 - Disable Security Chip
 - Disable Anti Theft Module
 - Disable TPM
 
+***Steps:***
 1. In terminal (linux) clone this macOS USB creator repo:
 ```git clone https://github.com/notthebee/macos_usb```
 
