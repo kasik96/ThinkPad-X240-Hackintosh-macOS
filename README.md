@@ -3,10 +3,15 @@ For this tutorial you DONT need macOS machine, but you need Linux.
 
 Credits:
 https://github.com/Sniki/ALCPlugFix
+
 https://github.com/Sniki/Lenovo-Thinkpad-X240
+
 https://github.com/Sniki/OS-X-USB-Inject-All
+
 https://www.tonymacx86.com/threads/guide-lenovo-thinkpad-x240.245583/
+
 https://www.reddit.com/r/hackintosh/comments/dfbswz/thinkpad_x240_catalina_success/
+
 
 What does not work:
 - VGA Port
