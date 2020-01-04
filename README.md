@@ -51,7 +51,7 @@ If EFI was mounted manualy:
 10. Download and install Clover to internal HDD from here https://sourceforge.net/projects/cloverefiboot/
 Select UEFI options, and dont change any other settings and click install.
 
-11. After installation, open EFI folder from internal Disk (it should be mounted from MultiBeast) and replace EFI folder on your internal HDD with EFI folder from USB we created. Both should be mounted.
+11. After installation, open EFI folder from internal Disk (it should be mounted from Clover, you can use Clover Configurator to mount it, if its not) and replace EFI folder on your internal HDD with EFI folder from USB we created. Both should be mounted.
 
 12. Remove USB and Restart
 
