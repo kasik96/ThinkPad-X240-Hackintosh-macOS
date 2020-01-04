@@ -48,8 +48,8 @@ If EFI was mounted manualy:
 
 9. Your laptop is gonna restart after installation. You need to select macOS USB stick again, and load macOS for internal Hard Drive.
 
-10. Download and open MultiBeast from here https://www.tonymacx86.com/resources/multibeast-10-4-0-high-sierra.401/
-Select UEFI, and dont change any other settings and click install.
+10. Download and install Clover to internal HDD from here https://sourceforge.net/projects/cloverefiboot/
+Select UEFI options, and dont change any other settings and click install.
 
 11. After installation, open EFI folder from internal Disk (it should be mounted from MultiBeast) and replace EFI folder on your internal HDD with EFI folder from USB we created. Both should be mounted.
 
