@@ -1,6 +1,12 @@
 # ThinkPad X240 Hackintosh - macOS Catalina
-For this tutorial you DONT need macOS machine
-You can Update moc to Mojave or Catalina after install, dont create USB with it.
+For this tutorial you DONT need macOS machine, but you need Linux.
+
+Credits:
+https://github.com/Sniki/ALCPlugFix
+https://github.com/Sniki/Lenovo-Thinkpad-X240
+https://github.com/Sniki/OS-X-USB-Inject-All
+https://www.tonymacx86.com/threads/guide-lenovo-thinkpad-x240.245583/
+https://www.reddit.com/r/hackintosh/comments/dfbswz/thinkpad_x240_catalina_success/
 
 What does not work:
 - VGA Port
@@ -48,3 +54,8 @@ Select UEFI, and dont change any other settings and click install.
 11. After installation, open EFI folder from internal Disk (it should be mounted from MultiBeast) and replace EFI folder on your internal HDD with EFI folder from USB we created. Both should be mounted.
 
 12. Remove USB and Restart
+
+13. Download this repo: https://github.com/Sniki/ALCPlugFix Extract it and open Terminal and navigate to this folder: "ALCPlugFix-master > alc_fix". Run install.sh
+```./install.sh```
+
+14. Reboot and everything should work right now.
