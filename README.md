@@ -40,9 +40,9 @@ For this tutorial you DONT need macOS machine, but you need Linux.
 
 6. Move to repo and replace EFI USB partition folder with repo EFI folder
 If EFI was mounted automatically:
-```cd ThinkPad-X240-Hackintosh-macOS/CLOVER/ && cp -r EFI /run/media/jsdev/CLOVER/```
+```cd ThinkPad-X240-Hackintosh-macOS/ && cp -r EFI /run/media/<yournick>/CLOVER/```
 If EFI was mounted manualy:
-```cd ThinkPad-X240-Hackintosh-macOS/CLOVER/ && cp -r EFI /mnt```
+```cd ThinkPad-X240-Hackintosh-macOS/ && cp -r EFI /mnt```
 
 7. Boot to USB, select macOS install, and open DISK Utility. In Disk Utility select your internal Disk, and Format it as APFS. 
 
