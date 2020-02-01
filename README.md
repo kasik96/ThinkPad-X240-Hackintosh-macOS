@@ -1,6 +1,8 @@
 # ThinkPad X240 Hackintosh - macOS Catalina
 For this tutorial you DONT need macOS machine, but you need Linux.
 
+## Ethernet connection is not working with latest update, so you will need to create offline installer 
+
 ***Credits:***
 - https://github.com/Sniki/ALCPlugFix
 - https://github.com/Sniki/Lenovo-Thinkpad-X240
