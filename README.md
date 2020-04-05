@@ -1,7 +1,7 @@
 # ThinkPad X240 Hackintosh - macOS Catalina
 For this tutorial you DONT need macOS machine, but you need Linux.
 
-#This project is not active anymore, use Sniki X240 - https://github.com/Sniki/Lenovo-Thinkpad-T440
+# This project is not active anymore, use Sniki X240 - https://github.com/Sniki/Lenovo-Thinkpad-T440
 
 ## Ethernet connection is not working with latest update, so you will need to create offline installer 
 
